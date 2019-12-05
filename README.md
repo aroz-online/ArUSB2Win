@@ -1,3 +1,5 @@
+ <sub>[English](https://github.com/aroz-online/ArUSB2Win/blob/master/README.md) / [正體中文](https://github.com/aroz-online/ArUSB2Win/blob/master/lang/README%20ZH-TW.md)</sub>
+
 ![](Resources/banner.png)
 # ArUSB2Win
 
